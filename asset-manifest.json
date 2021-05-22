@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/igc-viewer/static/css/main.89bdb1a3.chunk.css",
-    "main.js": "/igc-viewer/static/js/main.d378260e.chunk.js",
-    "main.js.map": "/igc-viewer/static/js/main.d378260e.chunk.js.map",
+    "main.js": "/igc-viewer/static/js/main.ec580619.chunk.js",
+    "main.js.map": "/igc-viewer/static/js/main.ec580619.chunk.js.map",
     "runtime-main.js": "/igc-viewer/static/js/runtime-main.3d8884fb.js",
     "runtime-main.js.map": "/igc-viewer/static/js/runtime-main.3d8884fb.js.map",
     "static/js/2.b121c238.chunk.js": "/igc-viewer/static/js/2.b121c238.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3d8884fb.js",
     "static/js/2.b121c238.chunk.js",
     "static/css/main.89bdb1a3.chunk.css",
-    "static/js/main.d378260e.chunk.js"
+    "static/js/main.ec580619.chunk.js"
   ]
 }
