@@ -1,0 +1,22 @@
+#infoPanel {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+#infoPanel .pilotInfo {
+    padding: 30px;
+}
+
+#infoPanel .pilotInfo h2 {
+    font-size: 24px;
+}
+
+#infoPanel .pilotInfo p {
+    font-size: 20px;
+}
+
+#infoPanel .pilotInfo p span {
+    font-weight: 700;
+}
