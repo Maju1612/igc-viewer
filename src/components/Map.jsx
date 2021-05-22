@@ -13,7 +13,7 @@ const Map = props => {
 
     const { isLoaded } = useJsApiLoader({
         id: 'google-map-script',
-        googleMapsApiKey: "AIzaSyAW8pDHUOwyY8DBg8JZYjgkGcQblsBgfQs"
+        googleMapsApiKey: "AIzaSyDng8H0tHP2I0J57Nnqhyw16-qD_EvdQ8s"
     });
 
     return isLoaded ? (
